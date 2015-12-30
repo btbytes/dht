@@ -1,6 +1,8 @@
-% Daily Habit Tracker
-% Pradeep Gowda
-% Wednesday, 16 April 2014
+---
+title: Daily Habit Tracker
+author: Pradeep Gowda
+date: Wednesday, 16 April 2014
+---
 
 
 
@@ -13,8 +15,8 @@ The output of this js program looks like this
 
 ## To play with the code
 
-Paste [this code](http://files.btbytes.com/dht/daily-habit-tracker.js) into the text area 
-of a [jsPDF playground](http://files.btbytes.com/jspdf/) and download the PDF. 
+Paste [this code](http://files.btbytes.com/dht/daily-habit-tracker.js) into the text area
+of a [jsPDF playground](http://files.btbytes.com/jspdf/) and download the PDF.
 Change the `year` variable to get calendar for future years.
 
 
